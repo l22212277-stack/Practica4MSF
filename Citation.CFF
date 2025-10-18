@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Alberto
+    family-names: Villalobos V.
+    email: L22212277@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/l22212277-stack/Practica4MSF'
+keywords:
+  - Simulaciones numéricas
+  - Modelo matemático
+  - Sistema Cardiovascular
+  - Controlador PI
+  - Circuito RLC
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-09'
