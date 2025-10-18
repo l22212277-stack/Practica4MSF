@@ -1,8 +1,8 @@
-https://matlab.mathworks.com/open/github/v1?repo=l22212277-stack/Practica4MSF
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l22212277-stack/Practica4MSF)
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Alberto Villalobos Valdez \[22212277]; L22212277@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
